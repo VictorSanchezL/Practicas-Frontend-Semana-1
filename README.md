@@ -1,5 +1,5 @@
 # Practicas-Frontend-Semana-1
-Mis prácticas de la misión FrontEnd en la semana uno
+Mis prácticas de la misión FrontEnd en la semana uno:
 
 - [Toma de requerimientos](https://github.com/VictorSanchezL/Practicas-Frontend-Semana-1/blob/main/1.-Requerimientos%20ABOGABOT.pdf)
 - [Buyer Persona](https://github.com/VictorSanchezL/Practicas-Frontend-Semana-1/blob/main/2.-Buyer%20Persona%20ABOGABOT.pdf)
